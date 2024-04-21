@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Yogya-Chugh
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python and focusing on DSA
+- 💞️ I’m looking to collaborate on building projects and start my career in Software Development.
+- 📫 How to reach me :- yogyachugh1@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a beginner but would love to work on some projects and learn new tech :) .
